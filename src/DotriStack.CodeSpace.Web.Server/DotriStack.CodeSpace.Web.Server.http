@@ -1,0 +1,6 @@
+@DotriStack.CodeSpace.Web.Server_HostAddress = http://localhost:5155
+
+GET {{DotriStack.CodeSpace.Web.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
